@@ -1,5 +1,5 @@
 # yugistone
-Unpaired Image-to-image translation (CycleGAN) from Yugioh cards to Hearthstone cards (and vice versa)
+Unpaired Image-to-image translation (CycleGAN) from Magic the Gathering cards to Yugioh cards (and vice versa)
 
 ### Sample Results
 ![10004_A_fake_A](results/10004_A_fake_A.png)
